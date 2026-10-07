@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ReHelp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/rehelp_green</item>
+        <item name="colorSecondaryContainer">@color/rehelp_green_light</item>
+    </style>
+
+    <style name="Theme.ReHelp" parent="Base.Theme.ReHelp" />
+</resources>
